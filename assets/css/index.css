@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.h-100 {
+    height: 100vh;
+}
+
+.w-auto {
+    width: auto;
+}
+
+.text-xxl {
+    font-size: 5rem;
+    line-height: 1;
+}
+
+.font-flower {
+    font-family: 'Indie Flower', cursive;
+}
+
+.font-oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.px-8 {
+    padding-right: 8rem !important;
+    padding-left: 8rem !important;
+}
+
+.my-tuition, .my-tuition:active, .my-tuition:focus {
+    padding-left: 2em;
+    padding-right: 2em;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    background-color: #FF90FF;
+    border-color: #FF90FF;
+    border-radius: 0px !important;
+}
+
+.my-tuition:hover {
+    background-color: #FF4BFF;
+    border-color: #FF4BFF;
+    color: white;
+}
